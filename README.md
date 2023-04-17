@@ -2,7 +2,7 @@
 
 > My SQL
 
-- Documentação: https://docs.oracle.com/en-us/iaas/mysql-database/doc/getting-started.html
+- [🔗 Documentação MySQL](https://docs.oracle.com/en-us/iaas/mysql-database/doc/getting-started.html)
 
 ## 🛠 Cursos
 
