@@ -10,6 +10,8 @@
 
 - [🔗 Documentação MongoDB](https://www.mongodb.com/docs/)
 
+- [🔗 Baixar MongoDB](https://www.mongodb.com/)
+
 ## 🛠 Cursos
 
 - SQL com MySQL: manipule e consulte dados
