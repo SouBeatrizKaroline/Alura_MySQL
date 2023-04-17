@@ -1,8 +1,8 @@
-# Alura
+# Estudando com Alura
 
 > My SQL
 
-Estudos
+- Documentação: https://docs.oracle.com/en-us/iaas/mysql-database/doc/getting-started.html
 
 ## 🛠 Cursos
 
