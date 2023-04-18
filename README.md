@@ -11,6 +11,7 @@
 - [🔗 Documentação MongoDB](https://www.mongodb.com/docs/)
 
 - [🔗 Baixar MongoDB](https://www.mongodb.com/)
+- [🔗 Baixar MongoDB Community Free](https://www.mongodb.com/try/download/community)
 
 ## 🛠 Cursos
 
