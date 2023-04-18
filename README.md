@@ -16,6 +16,8 @@
 
 - [🔗 Baixar MongoDB Shell](https://www.mongodb.com/try/download/shell)
 
+- [🔗 Bases de Dados Kaggle](https://www.kaggle.com/datasets)
+
 ## 🛠 Cursos
 
 - SQL com MySQL: manipule e consulte dados
